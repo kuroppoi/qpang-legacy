@@ -1,5 +1,5 @@
-# qpang-legacy
+# QPang Legacy
 
-Using a github repo to host files
+## You won't find any code here... yet.
 
-Mmyes, this is big brain time.
+This repository is currently used as a simple means to host release files.
