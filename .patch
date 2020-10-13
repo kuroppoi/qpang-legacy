@@ -47,3 +47,28 @@
 0019334F:C3->C4
 00193A83:52->1C
 00193A84:C3->C4
+
+# Inventory desc font
+0017B79D: 29->00
+0017B79E: 29->FF
+0017B79F: 29->FF
+0017BB55: FF->00
+0017BB56: 64->FF
+0017BB57: 64->00
+
+# Shop desc font
+00155A5D: 29->00
+00155A5E: 29->FF
+00155A5F: 29->FF
+00156315: FF->00
+00156316: 64->FF
+00156317: 64->00
+
+# Gameroom player slot element locations
+0034B062: 40->00
+0034B063: 42->00
+001692F4: 02->11
+
+# Open character view instead of closing it
+001BDE4C: 14->10
+001B273D: 14->10
