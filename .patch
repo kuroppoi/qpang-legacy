@@ -198,7 +198,6 @@
 
 # Roomlist button
 00193A63: 21->22
-00193A64: C4->C4
 
 # Roomlist pvp merge
 00120DDD: 53->59
