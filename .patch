@@ -195,3 +195,10 @@
 0011F4FD: FF->00
 0011F4FE: 57->00
 0011F4FF: 30->00
+
+# Roomlist button
+00193A63: 21->22
+
+# Roomlist pvp merge
+00120DDD: 53->59
+00120DF1: 3F->45
