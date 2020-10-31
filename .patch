@@ -199,6 +199,6 @@
 # Roomlist button
 00193A63: 21->22
 
-# Roomlist pvp merge
-00120DDD: 53->59
-00120DF1: 3F->45
+# Roomlist pvp merge (built into qpang.io patcher now)
+# 00120DDD: 53->59
+# 00120DF1: 3F->45
