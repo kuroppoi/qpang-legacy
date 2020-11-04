@@ -56,6 +56,10 @@
 0017BB56: 64->FF
 0017BB57: 64->00
 
+0017B79D: 00->FF
+0017BB55: 00->FF
+0017BB57: 00->FF
+
 # Carddesc font color shop
 00155A5D: 29->00
 00155A5E: 29->FF
@@ -63,6 +67,10 @@
 00156315: FF->00
 00156316: 64->FF
 00156317: 64->00
+
+00155A5D: 00->FF
+00156315: 00->FF
+00156317: 00->FF
 
 # Gameroom player slot dimensions
 0034B062: 40->00
@@ -202,3 +210,6 @@
 # Roomlist pvp merge (built into qpang.io patcher now)
 # 00120DDD: 53->59
 # 00120DF1: 3F->45
+
+# Gameroom sqtip
+00190387: 48->3C
